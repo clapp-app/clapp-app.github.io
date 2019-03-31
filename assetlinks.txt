@@ -8,6 +8,6 @@ permalink: .well-known/assetlinks.json
     "namespace": "android_app",
     "package_name": "eu.insertcode.clapp",
     "sha256_cert_fingerprints":
-    ["2F:30:5F:75:76:75:81:7C:62:F5:55:4A:2E:77:11:E9:F0:F8:8B:56:F8:C0:99:4A:ED:15:11:61:A0:91:59:90"]
+    ["18:3B:8C:B8:C2:24:8B:A9:C5:DD:14:94:09:BD:3A:88:D1:28:81:D7:2C:37:0D:B0:87:56:23:C8:09:FC:46:C4"]
   }
 }]
